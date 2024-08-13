@@ -1,0 +1,1 @@
+abcd545160ba8beba9379c5b9c0ca8714a18dd7d84454ee0526d7c032064025e  workshop.wasm
